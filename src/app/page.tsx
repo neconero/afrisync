@@ -77,7 +77,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="border-t border-slate-800/80 px-6 py-6 text-center text-xs text-slate-500">
-        © {new Date().getFullYear()} AfriSync Technologies. All rights reserved.
+        © 2026 AfriSync Technologies. All rights reserved.
       </footer>
     </div>
   );
